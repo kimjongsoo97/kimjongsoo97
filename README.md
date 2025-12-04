@@ -1,6 +1,5 @@
 ## Hi there 👋
 ✨ 김종수 | Backend · AI · Unity Developer
-👋 Hi there!
 
 사용자 경험을 중심에 두고 서비스를 설계하고,
 문제를 해결하며 성능을 개선하는 과정에서 가장 큰 즐거움을 느낍니다.
